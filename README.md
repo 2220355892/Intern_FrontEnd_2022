@@ -2,4 +2,3 @@
 
 # Nam nè 123
 
-#thanh
